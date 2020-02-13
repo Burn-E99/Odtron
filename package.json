@@ -1,0 +1,22 @@
+{
+  "name": "odtron",
+  "version": "0.0.4",
+  "description": "Yet another Discord Bot, but this time with a limited feature set: customizable reminders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burn-E99/Odtron.git"
+  },
+  "author": "Ean Milligan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burn-E99/Odtron/issues"
+  },
+  "homepage": "https://github.com/Burn-E99/Odtron#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
